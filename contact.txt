@@ -1,2 +1,12 @@
 視線を検知するパートの作成ディレクトリ
 
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/Masayo4/term_contact.git
+git push -u origin master
+
+gitをこれからはきちんと使うこと....
+(ローカル管理だけでなく)
+
